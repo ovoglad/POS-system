@@ -49,8 +49,3 @@ This option allows you to sell an item to a customer. You will be prompted to en
 
 This option will exit the program. 
 
-## Contributors
-
-The point of sale system was a school project created by Gladwin Chan. All of the code for the project was written by myself, with the exception of the billing module which was provided by professor Fardad Soleimanloo.
-
-
